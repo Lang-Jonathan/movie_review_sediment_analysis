@@ -4,7 +4,7 @@ The Film Junky Union, a fictive new edgy community for classic movie enthusiasts
 For those functionalities this project a model to automatically detect  negative reviews has been built.  
 This model has been trained on a dataset of IMBD movie reviews with polarity labelling. The model must be at least provide an F1 score of 0.85.
 
-##Content
+## Content
 In this project the following steps have been carried out:
 
 - load and inspect the data
